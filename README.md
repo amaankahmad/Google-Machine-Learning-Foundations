@@ -1,4 +1,4 @@
-# Google-Machine-Learning-Foundations
+# GoogleMachineLearningFoundations
 Machine Learning Foundations is a free training course where you’ll learn the fundamentals of building machine learned models using TensorFlow. 
 
 Can be found on the Google Developer's Youtube Channel: 
